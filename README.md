@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Моя первая работа на HTML & CSS](https://vladilen-courses.github.io/resume/)
+[Работа на HTML & CSS](https://github.com/gloryvictory/resume)
